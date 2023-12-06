@@ -1045,16 +1045,3 @@ print("Frase com substituição:", frase_substituida)
 
 
 
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
