@@ -99,11 +99,6 @@ print("NoneType (None):", nenhum)
 
 
 ```python
-
-```
-
-
-```python
 #Variaveis
 
 idade = 30
@@ -135,9 +130,6 @@ o valor da variável idade, que é 30.
 
 
 
-```python
-
-```
 
 
 ```python
@@ -215,10 +207,6 @@ print(var4)
 
 
 
-```python
-
-```
-
 
 ```python
 #Podemos atribuir o mesmo valor a várias variáveis em uma única linha
@@ -239,11 +227,6 @@ print(var4)
 
 
 ```python
-
-```
-
-
-```python
 #Se tiver uma coleção de valores em uma lista, podemos extrair em variáveis. Isso é chamado de descompactar
 
 exemplo = "Texto 1", "Texto 2", "Texto 3", "Texto 4"
@@ -260,11 +243,6 @@ print(var4)
     Texto 3
     Texto 4
 
-
-
-```python
-
-```
 
 
 ```python
@@ -288,11 +266,6 @@ print(numero1 + numero2)
 
     DezCinco
 
-
-
-```python
-
-```
 
 
 ```python
@@ -331,11 +304,6 @@ print("Nome completo: " + nome + " " + sobrenome)
 
 
 ```python
-
-```
-
-
-```python
 # Exercício de Variáveis em Python
 
 # 1. Declare uma variável chamada "idade" e atribua o valor 25 a ela.
@@ -357,11 +325,6 @@ print("A soma é:", soma)
 
     A soma é: 125.5
 
-
-
-```python
-
-```
 
 
 ```python
@@ -388,10 +351,6 @@ print("A média é:", format(media, ".2f"))
 
 
 
-```python
-
-```
-
 
 ```python
 nome = input("Digite seu nome: \n")
@@ -404,11 +363,6 @@ print("\nO seu nome é: " + nome)
     
     O seu nome é: Rodrigo Silva
 
-
-
-```python
-
-```
 
 
 ```python
@@ -458,10 +412,6 @@ print("\nAluno:", nome, " Média:", media)
     Aluno: Roberta  Média: 6.5
 
 
-
-```python
-
-```
 
 
 ```python
@@ -532,10 +482,6 @@ print(nDigitado, "* 10 =", nDigitado * 10)
 
 
 
-```python
-
-```
-
 
 ```python
 """
@@ -559,10 +505,6 @@ print("Sua idade é:", idade)
     Sua idade é: 73
 
 
-
-```python
-
-```
 
 
 ```python
@@ -600,10 +542,6 @@ print(random.uniform(5.5, 9.5)) # Gera um número de ponto flutuante entre 5.5 e
 
 
 
-```python
-
-```
-
 
 ```python
 #Imprimindo a posição das letras
@@ -624,11 +562,6 @@ print(posicaoLetra[5])
     o
     n
 
-
-
-```python
-
-```
 
 
 ```python
@@ -685,11 +618,6 @@ print(ultimos)  # Saida: mundo!
 
 
 ```python
-
-```
-
-
-```python
 #Verifica se a palavra python está na frase
 
 
@@ -715,12 +643,6 @@ usado para verificar se uma determinada substring está contida em uma string ma
 
 
 
-
-```python
-
-```
-
-
 ```python
 #verifica se a palavra python está na frase
 frase = "O módulo de python é muito legal"
@@ -735,11 +657,6 @@ if "python" in frase:
 
 
 ```python
-
-```
-
-
-```python
 #strip - Usamos para remover espaços em branco do inicio e do final da frase
 
 frase = "        O módulo de python é muito legal       "
@@ -749,11 +666,6 @@ print(frase.strip())
 
     O módulo de python é muito legal
 
-
-
-```python
-
-```
 
 
 ```python
@@ -790,11 +702,6 @@ print(palavras)
 
 
 ```python
-
-```
-
-
-```python
 """
 método join, que é o oposto do método split que você viu anteriormente. Ele é usado para juntar 
 uma lista de strings em uma única string, usando um delimitador específico. 
@@ -827,11 +734,6 @@ print(frase)
 
     Olá, como vai você?
 
-
-
-```python
-
-```
 
 
 ```python
@@ -874,11 +776,6 @@ específico do início e do final da string.
 
 
 ```python
-
-```
-
-
-```python
 #Utilizando Formated Strings
 
 nome = "Alice"
@@ -912,11 +809,6 @@ Explicação:
 
     Olá, meu nome é Alice. Tenho 25 anos e minha altura é 1.65 metros.
 
-
-
-```python
-
-```
 
 
 ```python
@@ -964,10 +856,6 @@ print(texto_junto)  # Output: Olá,mundo!
 
 
 
-```python
-
-```
-
 
 ```python
 # Exercício de Manipulação de Strings em Python
@@ -999,10 +887,6 @@ print(mensagem)
     Olá, meu nome é Maria Silva e tenho 30 anos.
 
 
-
-```python
-
-```
 
 
 ```python
