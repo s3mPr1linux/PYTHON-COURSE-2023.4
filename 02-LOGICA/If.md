@@ -1,5 +1,5 @@
 ```python
-#Python função If ou seja função Se
+#Condicional  If 
 
 numero1 = 90
 numero2 = 12
@@ -16,7 +16,7 @@ if numero1 > numero2:
 
 
 ```python
-#Python função If... elif
+#If... elif
 #if - Se
 #elif - Senão Se
 
@@ -158,7 +158,7 @@ em Python e são ferramentas essenciais na caixa de ferramentas de qualquer prog
 
 
 ```python
-#Função If... elif ... else
+#If... elif ... else
 #Se... Senão Se ... Senão
 
 numero1 = 9
